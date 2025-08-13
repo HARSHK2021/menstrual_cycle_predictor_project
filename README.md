@@ -14,4 +14,3 @@
 2. Run `02_insert_mock_data.sql`
 3. Run `03_analytics_queries.sql` for insights
 
-This project is ready to upload to GitHub.
